@@ -1,4 +1,4 @@
-# Spencer's [website](https://spencerpao.github.io/)
+# Sodoku 1000+ [website](https://spencerpao.github.io/)
 
 
 <p align="center">
