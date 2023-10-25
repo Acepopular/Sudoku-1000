@@ -348,7 +348,7 @@ Easily create beautiful grids within your blog posts and project pages:
 
 <p align="center">
   <a href="pages/dropdown.md">
-    <img src="img/1.jpg">
+    <img src="img/1.jpg" alt="Image 1" >
   </a>
 </p>
 
