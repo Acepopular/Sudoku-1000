@@ -347,7 +347,7 @@ Photo formatting is made simple using [Bootstrap's grid system](https://getboots
 Easily create beautiful grids within your blog posts and project pages:
 
 <p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
+  <a href="pages/dropdown.md">
     <img src="img/1.jpg">
   </a>
 </p>
